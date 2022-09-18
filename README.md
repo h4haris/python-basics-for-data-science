@@ -153,10 +153,10 @@ array([1,2,3])
 
 ### NumPy
 
--Numeric Python
--alternative to python list: numpy array
--calculations over entire arrays
--east and fast
+- Numeric Python
+- alternative to python list: numpy array
+- calculations over entire arrays
+- east and fast
 
 ```bash
 list + list => concat lists
