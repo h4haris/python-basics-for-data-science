@@ -1,4 +1,5 @@
 # Python Basics for Data Science
+Basic python knowledge and experimentation with 'NumPy' package usage for Data Science
 
 ### Python Intro
 - General purpose: build anything
